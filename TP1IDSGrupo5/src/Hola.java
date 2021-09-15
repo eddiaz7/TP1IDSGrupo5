@@ -15,8 +15,10 @@ public class Hola {
 		System.out.println(hola.getSaludo());
         System.out.println("Hola mundo");
         System.out.println("Esta linea la va a escribir release1");
+        System.out.println("Hola segunda modificacion en release2");
+        System.out.println("Hola modificaciones en release2");
+        System.out.println("Agrego punto A");
+	
 	}
-System.out.println("Hola segunda modificacion en release2");
-a
-System.out.println("Hola modificaciones en release2");
+
 }
