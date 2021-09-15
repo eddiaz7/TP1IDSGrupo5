@@ -14,6 +14,7 @@ public class Hola {
 		hola.setSaludo("Prueba2");
 		System.out.println(hola.getSaludo());
         System.out.println("Hola mundo");
+        System.out.println("Esta linea la va a escribir release1");
 	}
 
 }
