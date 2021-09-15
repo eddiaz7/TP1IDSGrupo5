@@ -17,8 +17,7 @@ public class Hola {
         System.out.println("Esta linea la va a escribir release1");
         System.out.println("Hola segunda modificacion en release2");
         System.out.println("Hola modificaciones en release2");
-        System.out.println("Elimino punto A");
-        System.out.println("Agrego punto B");
+        System.out.println("Agrego punto A");
 	
 	}
 
