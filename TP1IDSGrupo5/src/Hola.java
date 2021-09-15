@@ -14,8 +14,7 @@ public class Hola {
 		hola.setSaludo("Prueba2");
 		System.out.println(hola.getSaludo());
         System.out.println("Hola mundo");
+        System.out.println("Hola segunda modificacion en release2");
+        System.out.println("Hola modificaciones en release2");
 	}
-System.out.println("Hola segunda modificacion en release2");
-a
-System.out.println("Hola modificaciones en release2");
 }
